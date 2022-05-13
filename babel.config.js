@@ -16,8 +16,7 @@ module.exports = {
         '@config': './src/config',
         '@controllers': './src/controllers',
         '@interfaces': './src/interfaces',
-        '@models': './src/models',
-        '@routes': './src/routes'
+        '@models': './src/models'
       }
     }]
   ],
