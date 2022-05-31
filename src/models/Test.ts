@@ -1,4 +1,4 @@
-export class HelloWorld {
+export class Test {
   name: string;
   description: string;
 }
